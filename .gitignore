@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+work/
+runs/
+*.part
+*.cache
+data/openimages_dog_car/cache/
+Ultralytics/
+/yolo*.pt
+resultados/treinos_yolo/*/weights/
+resultados/dataset_runtime.yaml

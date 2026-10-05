@@ -1,0 +1,21 @@
+{
+  "tp": 8,
+  "fp": 0,
+  "fn": 1,
+  "precision_iou50": 1.0,
+  "recall_iou50": 0.888889,
+  "f1_iou50": 0.941176,
+  "classification_accuracy": 1.0,
+  "mean_inference_ms": 15.668,
+  "test_images": 8,
+  "abordagem": "YOLO customizada - 30 epocas",
+  "epocas": 30,
+  "tempo_treinamento_s": 77.509,
+  "precision": 0.981136,
+  "recall": 0.9,
+  "map50": 0.895319,
+  "map50_95": 0.866186,
+  "fitness": 0.866186,
+  "modelo": "modelos/yolo_custom_30_best.pt",
+  "diretorio_treino": "resultados/treinos_yolo/epocas_30"
+}

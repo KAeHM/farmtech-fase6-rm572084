@@ -1,0 +1,12 @@
+{
+  "abordagem": "YOLO customizada - 60 epocas",
+  "epocas": 60,
+  "tempo_treinamento_s": 105.655,
+  "precision": 0.987567,
+  "recall": 0.9,
+  "map50": 0.89598,
+  "map50_95": 0.851771,
+  "fitness": 0.851771,
+  "modelo": "modelos/yolo_custom_60_best.pt",
+  "diretorio_treino": "resultados/treinos_yolo/epocas_60"
+}

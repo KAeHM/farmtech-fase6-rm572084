@@ -1,0 +1,5 @@
+abordagem,acuracia_classificacao,precision,recall,map50,tempo_treinamento_s,inferencia_ms
+YOLO customizada - 30 epocas,1.0,1.0,0.888889,0.895319,77.509,15.668
+YOLO customizada - 60 epocas,1.0,1.0,0.888889,0.89598,105.655,2.109
+YOLO padrao (COCO, sem novo treino),0.75,1.0,0.666667,,0,5.586
+CNN treinada do zero,0.75,0.833333,0.75,,33.279,4.595

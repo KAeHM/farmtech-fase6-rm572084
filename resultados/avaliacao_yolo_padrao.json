@@ -1,0 +1,13 @@
+{
+  "tp": 6,
+  "fp": 0,
+  "fn": 3,
+  "precision_iou50": 1.0,
+  "recall_iou50": 0.666667,
+  "f1_iou50": 0.8,
+  "classification_accuracy": 0.75,
+  "mean_inference_ms": 5.586,
+  "test_images": 8,
+  "abordagem": "YOLO padrao (COCO, sem novo treino)",
+  "tempo_treinamento_s": 0
+}
