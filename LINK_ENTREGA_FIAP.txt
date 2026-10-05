@@ -1,0 +1,16 @@
+FarmTech Solutions - Fase 6
+
+Aluno: Samuel Soares Carvalho Lima
+RM: 572084
+Grupo: 46
+
+Repositório público no GitHub:
+https://github.com/KAeHM/farmtech-fase6-rm572084
+
+Notebook no GitHub:
+https://github.com/KAeHM/farmtech-fase6-rm572084/blob/main/SamuelSoaresCarvalhoLima_rm572084_pbl_fase6.ipynb
+
+Notebook no Google Colab:
+https://colab.research.google.com/github/KAeHM/farmtech-fase6-rm572084/blob/main/SamuelSoaresCarvalhoLima_rm572084_pbl_fase6.ipynb
+
+Observação: o vídeo demonstrativo não faz parte desta entrega.
